@@ -1,0 +1,54 @@
+{
+  "folders": [],
+  "v": 2,
+  "auth": { "authActive": false, "authType": "inherit" },
+  "requests": [
+    {
+      "v": "1",
+      "params": [],
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"title\": \"Qual é o melhor framework Node.JS ?\",\n  \"options\": [\n    \"Express\", \"Fastify\", \"NestJS\", \"HapiJS\"\n  ]\n}"
+      },
+      "method": "POST",
+      "headers": [],
+      "preRequestScript": "",
+      "testScript": "",
+      "endpoint": "<<baseUrl>>/polls",
+      "name": "Create Poll",
+      "auth": { "authType": "none", "authActive": true }
+    },
+    {
+      "name": "Get Poll",
+      "body": {
+        "contentType": null,
+        "body": "{\n  \"title\": \"Qual é o melhor framework Node.JS ?\",\n  \"options\": [\n    \"Express\", \"Fastify\", \"NestJS\", \"HapiJS\"\n  ]\n}"
+      },
+      "endpoint": "<<baseUrl>>/polls/6b88ef06-380b-4217-96f4-19d49d86010e",
+      "method": "GET",
+      "params": [],
+      "preRequestScript": "",
+      "headers": [],
+      "v": "1",
+      "auth": { "authActive": true, "authType": "none" },
+      "testScript": ""
+    },
+    {
+      "headers": [],
+      "params": [],
+      "auth": { "authActive": true, "authType": "none" },
+      "name": "Vote on Poll",
+      "endpoint": "<<baseUrl>>/polls/6b88ef06-380b-4217-96f4-19d49d86010e/vote",
+      "body": {
+        "contentType": "application/json",
+        "body": "{\n  \"pollOptionId\": \"e0c82e71-a823-4545-8f07-d20c24843036\"\n}"
+      },
+      "v": "1",
+      "testScript": "",
+      "method": "POST",
+      "preRequestScript": ""
+    }
+  ],
+  "headers": [],
+  "name": "Polls"
+}
