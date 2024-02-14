@@ -110,14 +110,14 @@ Execute a aplicação
 npm run dev
 ```
 
-Faça requisições para as rotas mapeadas da API, conforme documentação abaixo, por meio de uma plataforma como <a href="https://www.postman.com">Postman</a> ou <a href="https://hoppscotch.io">Hoppscotch</a>.
+Faça requisições para as rotas mapeadas da API, conforme documentação abaixo, por meio de uma plataforma como <a href="https://www.postman.com">Postman</a> ou <a href="https://hoppscotch.com/">Hoppscotch</a>.
 <br><br>
 
 ## 📝 Documentação
 
 ## Rotas HTTP
 
-<b>baseURL:</b> <code>localhost:4000</code>
+<b>baseURL:</b> <code>localhost:3333</code>
 
 <p><b>POST</b> <code>http://{baseURL}/polls</code><br>
 Cria uma nova enquete.</p>
