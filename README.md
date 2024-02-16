@@ -28,42 +28,18 @@
 ## 🚀 Tecnologias
 
 <div>  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" alt="Typescript"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm" alt="NPM"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js"/>
-  </a>    
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-02364e?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreeSQL"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23fff" alt="Docker"/> 
-  </a>
-  <a href="https://fastify.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Fasfity-%23000000?style=for-the-badge&logo=fastify&logoColor=%23fff" alt="Fastify"/>
-  </a>
-  <a href="https://zod.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Zod-%233167b5?style=for-the-badge&logo=zod&logoColor=%23152642" alt="Zod"/>
-  </a>
-  <a href="https://hoppscotch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Hoppscotch-%23081b17?style=for-the-badge&logo=hoppscotch&logoColor=%2301eac2" alt="Hoppscotch"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code"/>
-  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" alt="Typescript"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm" alt="NPM"/></a>
+  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js"/></a>    
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-02364e?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreeSQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%23fff" alt="Docker"/></a>
+  <a href="https://fastify.dev/" target="_blank"><img src="https://img.shields.io/badge/Fasfity-%23000000?style=for-the-badge&logo=fastify&logoColor=%23fff" alt="Fastify"/></a>
+  <a href="https://zod.dev/" target="_blank"><img src="https://img.shields.io/badge/Zod-%233167b5?style=for-the-badge&logo=zod&logoColor=%23152642" alt="Zod"/></a>
+  <a href="https://hoppscotch.io/" target="_blank"><img src="https://img.shields.io/badge/Hoppscotch-%23081b17?style=for-the-badge&logo=hoppscotch&logoColor=%2301eac2" alt="Hoppscotch"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code"/></a>
 </div>
 <br>
 
